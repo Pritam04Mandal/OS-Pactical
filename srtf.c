@@ -64,3 +64,6 @@ for(i=0;i<n;i++)
 }
 printf("\n WAvg==>\t%f\nTAvg==>\t%f\n",(wavg/n),(tavg/n));
 }
+
+
+
